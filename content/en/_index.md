@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-    spacing: "4rem 2rem"
   - block: markdown
     content:
       title: 'My research'
@@ -42,7 +41,6 @@ sections:
         Please reach out to collaborate!
     design:
       columns: '1'
-    spacing: "3rem 1.5rem"
   - block: collection
     id: papers
     content:
@@ -53,9 +51,8 @@ sections:
         featured_only: true
     design:
       view: article-grid
+      fill_image: false
       columns: '2'
-      css_class:  "mx-auto max-w-screen-lg"
-    spacing: "3rem 1.5rem"
   - block: collection
     content:
       title: Recent Publications
@@ -75,9 +72,8 @@ sections:
           - event
     design:
       view: article-grid
+      fill_image: false
       columns: '2'
-      css_class:  "mx-auto max-w-screen-lg"
-    spacing: "3rem 1.5rem"
   - block: collection
     id: news
     content:
