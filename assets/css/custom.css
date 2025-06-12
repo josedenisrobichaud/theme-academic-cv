@@ -32,3 +32,14 @@
     gap: 1rem;
   }
 }
+
+article.grid-item img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+article.grid-item {
+  padding: 1rem;
+}

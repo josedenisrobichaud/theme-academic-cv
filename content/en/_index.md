@@ -55,6 +55,7 @@ sections:
       view: article-grid
       columns: '2'
       css_class: "max-w-screen-lg mx-auto px-4"
+    spacing: "3rem 1.5rem"
   - block: collection
     content:
       title: Recent Publications
@@ -76,6 +77,7 @@ sections:
       view: article-grid
       columns: '2'
       css_class: "max-w-screen-lg mx-auto px-4"
+    spacing: "3rem 1.5rem"
   - block: collection
     id: news
     content:
