@@ -54,7 +54,7 @@ sections:
     design:
       view: article-grid
       columns: '2'
-      css_class: "max-w-screen-lg mx-auto px-4"
+      css_class:  "mx-auto max-w-screen-lg"
     spacing: "3rem 1.5rem"
   - block: collection
     content:
@@ -76,7 +76,7 @@ sections:
     design:
       view: article-grid
       columns: '2'
-      css_class: "max-w-screen-lg mx-auto px-4"
+      css_class:  "mx-auto max-w-screen-lg"
     spacing: "3rem 1.5rem"
   - block: collection
     id: news

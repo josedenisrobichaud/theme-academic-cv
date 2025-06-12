@@ -72,3 +72,20 @@ article.grid-item img {
 article.grid-item {
   padding: 1rem;
 }
+
+/* Wraps the grid in a container with consistent horizontal boundaries */
+article.grid-item,
+section > .grid,
+.grid.grid-cols-2 {
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+body {
+  overflow-x: hidden;
+}

@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -54,7 +54,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      css_class: "grid-cols-1 md:grid-cols-2"
+      css_class: "mx-auto max-w-screen-lg"
   - block: collection
     content:
       title: Publications récentes
@@ -74,7 +74,7 @@ sections:
           - event
     design:
       view: article-grid
-      css_class: "grid-cols-1 md:grid-cols-2"
+      css_class:  "mx-auto max-w-screen-lg"
   - block: collection
     id: news
     content:
@@ -103,7 +103,7 @@ sections:
       view: title-summary
       # Reduce spacing
       spacing:
-        padding: [2rem, 1rem, 2rem, 1rem] 
+        padding: [2rem, 1rem, 2rem, 1rem]
 #  - block: cta-card
 #    demo: true # Only display this section in the Hugo Blox Builder demo site
 #    content:
