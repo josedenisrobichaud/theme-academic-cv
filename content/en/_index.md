@@ -40,7 +40,7 @@ sections:
 
         Please reach out to collaborate!
     design:
-      columns: '1'
+      columns: 1
   - block: collection
     id: papers
     content:
@@ -52,11 +52,10 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: '2'
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
-      text: ""
       filters:
         folders:
           - publication
@@ -73,7 +72,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: '2'
+      columns: 2
   - block: collection
     id: news
     content:
