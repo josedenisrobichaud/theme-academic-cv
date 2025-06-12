@@ -46,6 +46,8 @@
     "classes": [
       "!mb-4",
       "-mr-4",
+      "-mt-[150px]",
+      "-mt-[180px]",
       "-start-3",
       "[&.active]:font-bold",
       "[&.active]:text-black/90",
@@ -290,6 +292,7 @@
       "max-lg:[transform:translate3d(0,-100%,0)]",
       "max-w-3xl",
       "max-w-6xl",
+      "max-w-[130px]",
       "max-w-[500px]",
       "max-w-[65ch]",
       "max-w-none",

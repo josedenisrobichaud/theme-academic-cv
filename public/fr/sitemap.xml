@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/event/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/project/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/teaching/"
-                />
-  </url><url>
     <loc>http://localhost:1313/post/new-job/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,6 +59,20 @@
     <loc>http://localhost:1313/tags/professeure/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/project/"
+                />
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
@@ -220,6 +192,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/event/2025podcastsplc/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/</loc>
+    <lastmod>2025-04-08T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/event/"
                 />
   </url><url>
     <loc>http://localhost:1313/publication/202503_endo100tx-jdsc/</loc>
@@ -1068,6 +1054,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/publication/201106_hkdx-jds/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/teaching/"
                 />
   </url>
 </urlset>

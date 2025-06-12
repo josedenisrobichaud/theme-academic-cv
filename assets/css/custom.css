@@ -10,3 +10,8 @@
   max-width: 330px;
 }
 
+.avatar {
+  width: 150px;  /* or your desired size */
+  height: 150px;
+  image-rendering: auto;
+}
