@@ -53,7 +53,8 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      css_class: "grid-cols-1 md:grid-cols-2"
+      columns: '2'
+      css_class: "max-w-screen-lg mx-auto px-4"
   - block: collection
     content:
       title: Recent Publications
@@ -73,7 +74,8 @@ sections:
           - event
     design:
       view: article-grid
-      css_class: "grid-cols-1 md:grid-cols-2"
+      columns: '2'
+      css_class: "max-w-screen-lg mx-auto px-4"
   - block: collection
     id: news
     content:
@@ -102,7 +104,7 @@ sections:
       view: title-summary
       # Reduce spacing
       spacing:
-        padding: [2rem, 1rem, 2rem, 1rem] 
+        padding: [2rem, 1rem, 2rem, 1rem]
 #  - block: cta-card
 #    demo: true # Only display this section in the Hugo Blox Builder demo site
 #    content:
