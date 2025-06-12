@@ -33,21 +33,18 @@
   }
 }
 
-/* Fix for card images in grid layout */
-.group > a.relative.block.aspect-video {
-  width: 100%;
+
+/* Prevent article-grid items from overflowing on small screens */
+.article-grid,
+.article-grid > * {
   max-width: 100%;
-  display: block;
-  overflow: hidden;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
-.group > a.relative.block.aspect-video img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
+.article-grid img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 
