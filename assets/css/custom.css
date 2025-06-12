@@ -53,16 +53,3 @@
   object-position: center;
 }
 
-/* General grid container fix */
-.grid {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  overflow-x: hidden;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-body {
-  overflow-x: hidden;
-}
