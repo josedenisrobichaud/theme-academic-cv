@@ -69,3 +69,7 @@ custom_css:
 profile:
   #avatar: "media/avatar.jpg"  # Path to your avatar image
   avatar_size: 150            # Size in pixels (optional)
+
+layout:
+  container: true
+  container_width: "max-w-screen-lg"

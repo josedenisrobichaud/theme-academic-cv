@@ -33,6 +33,35 @@
   }
 }
 
+/* Ensure all article-grid blocks are responsive */
+.grid.grid-cols-2,
+article.grid-item,
+.article-style {
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+/* Make sure images in article-grid don’t overflow */
+.grid img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* Ensure horizontal padding is responsive */
+.grid {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Prevent global body overflow on mobile */
+body {
+  overflow-x: hidden;
+}
+
+
 article.grid-item img {
   max-width: 100%;
   height: auto;
