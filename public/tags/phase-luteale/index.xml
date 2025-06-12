@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phase Lutéale | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/phase-luteale/</link>
+      <atom:link href="http://localhost:1313/tags/phase-luteale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phase Lutéale</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Phase Lutéale</title>
+      <link>http://localhost:1313/tags/phase-luteale/</link>
+    </image>
+    
+    <item>
+      <title>Pilot Study to Evaluate the Association Between the Length of the Luteal Phase and Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows</title>
+      <link>http://localhost:1313/publication/201808_lp-fvs/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201808_lp-fvs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

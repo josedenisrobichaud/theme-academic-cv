@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé Mammaire | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/sante-mammaire/</link>
+      <atom:link href="http://localhost:1313/tags/sante-mammaire/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santé Mammaire</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Santé Mammaire</title>
+      <link>http://localhost:1313/tags/sante-mammaire/</link>
+    </image>
+    
+    <item>
+      <title>Validity of luminometry and bacteriological tests for diagnosing intramammary infection at dry-off in dairy cows</title>
+      <link>http://localhost:1313/publication/202409_validityimi-jds/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202409_validityimi-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

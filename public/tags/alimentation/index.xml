@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alimentation | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/alimentation/</link>
+      <atom:link href="http://localhost:1313/tags/alimentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alimentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Alimentation</title>
+      <link>http://localhost:1313/tags/alimentation/</link>
+    </image>
+    
+    <item>
+      <title>Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam</title>
+      <link>http://localhost:1313/publication/202105_porcviet-ijfm/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202105_porcviet-ijfm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

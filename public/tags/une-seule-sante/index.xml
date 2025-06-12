@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Une Seule Santé | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/une-seule-sante/</link>
+      <atom:link href="http://localhost:1313/tags/une-seule-sante/index.xml" rel="self" type="application/rss+xml" />
+    <description>Une Seule Santé</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 25 Nov 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Une Seule Santé</title>
+      <link>http://localhost:1313/tags/une-seule-sante/</link>
+    </image>
+    
+    <item>
+      <title>A Qualitative Case Study of Swine Influenza in Canada</title>
+      <link>http://localhost:1313/event/2024g1hn/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024g1hn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High prevalence of SARS-CoV-2 antibodies and low prevalence of SARS-CoV-2 RNA in cats recently exposed to human cases</title>
+      <link>http://localhost:1313/publication/202407_covidcat_bmc/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202407_covidcat_bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Health communication channels: a qualitative case study of swine influenza in Canada in 2020</title>
+      <link>http://localhost:1313/publication/202404_ohchannels-bmc/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202404_ohchannels-bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How are large-scale One Health initiatives targeting infectious diseases and antimicrobial resistance evaluated? A scoping review</title>
+      <link>http://localhost:1313/publication/202206_ohevaluation-oh/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202206_ohevaluation-oh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

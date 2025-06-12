@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé Métabolique | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/sante-metabolique/</link>
+      <atom:link href="http://localhost:1313/tags/sante-metabolique/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santé Métabolique</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Santé Métabolique</title>
+      <link>http://localhost:1313/tags/sante-metabolique/</link>
+    </image>
+    
+    <item>
+      <title>Herd-level associations between the proportion of elevated prepartum nonesterified fatty acid concentrations and postpartum diseases, reproduction, or culling on dairy farms</title>
+      <link>http://localhost:1313/publication/202405_herdnefa_jdsc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202405_herdnefa_jdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized controlled trial assessing the impact of a combined treatment of insulin glargine and propylene glycol on the resolution of hyperketonemia and milk production in postpartum dairy cows</title>
+      <link>http://localhost:1313/publication/202209_rctinsuline-jdsc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202209_rctinsuline-jdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of a new milk strip cow-side test for diagnosis of hyperketonemia</title>
+      <link>http://localhost:1313/publication/201106_hkdx-jds/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201106_hkdx-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

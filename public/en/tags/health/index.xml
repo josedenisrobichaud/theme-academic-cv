@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/health/</link>
+      <atom:link href="http://localhost:1313/en/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Health</title>
+      <link>http://localhost:1313/en/tags/health/</link>
+    </image>
+    
+    <item>
+      <title>A dairy herd-level study of postpartum diseases and their association with reproductive performance and culling</title>
+      <link>http://localhost:1313/en/publication/201704_herddz-jds/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201704_herddz-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

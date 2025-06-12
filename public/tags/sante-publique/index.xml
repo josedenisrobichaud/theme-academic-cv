@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé Publique | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/sante-publique/</link>
+      <atom:link href="http://localhost:1313/tags/sante-publique/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santé Publique</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Santé Publique</title>
+      <link>http://localhost:1313/tags/sante-publique/</link>
+    </image>
+    
+    <item>
+      <title>Linking opinions shared on social media about COVID-19 public health measures to adherence: Repeated cross-sectional surveys of Twitter use in Canada</title>
+      <link>http://localhost:1313/publication/202409_adherencetwitter-jmir/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202409_adherencetwitter-jmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High prevalence of SARS-CoV-2 antibodies and low prevalence of SARS-CoV-2 RNA in cats recently exposed to human cases</title>
+      <link>http://localhost:1313/publication/202407_covidcat_bmc/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202407_covidcat_bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Health communication channels: a qualitative case study of swine influenza in Canada in 2020</title>
+      <link>http://localhost:1313/publication/202404_ohchannels-bmc/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202404_ohchannels-bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam</title>
+      <link>http://localhost:1313/publication/202105_porcviet-ijfm/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202105_porcviet-ijfm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

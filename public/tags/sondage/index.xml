@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sondage | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/sondage/</link>
+      <atom:link href="http://localhost:1313/tags/sondage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sondage</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Sondage</title>
+      <link>http://localhost:1313/tags/sondage/</link>
+    </image>
+    
+    <item>
+      <title>Linking opinions shared on social media about COVID-19 public health measures to adherence: Repeated cross-sectional surveys of Twitter use in Canada</title>
+      <link>http://localhost:1313/publication/202409_adherencetwitter-jmir/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202409_adherencetwitter-jmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional characteristics, attitudes, and practices associated with stress and quality of life among Canadian animal health workers</title>
+      <link>http://localhost:1313/publication/202309_qolvet-cvj/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202309_qolvet-cvj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between Pet Ownership and Mental Health and Well-Being of Canadians Assessed in a Cross-Sectional Study during the COVID-19 Pandemic</title>
+      <link>http://localhost:1313/publication/202202_qolpet-ijerph/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202202_qolpet-ijerph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gap between producers and veterinarians regarding biosecurity on Quebec dairy farms</title>
+      <link>http://localhost:1313/publication/202007_biosecurity-cvj/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202007_biosecurity-cvj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canadian dairy farmers&#39; perception of the efficacy of biosecurity practices</title>
+      <link>http://localhost:1313/publication/201911_biosecurity_percep-jds/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201911_biosecurity_percep-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biosecurity and herd health management practices on Canadian dairy farms</title>
+      <link>http://localhost:1313/publication/201910_biosecurity-jds/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201910_biosecurity-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dairy producers&#39; attitudes toward reproductive management and performance on Canadian dairy farms</title>
+      <link>http://localhost:1313/publication/201801_repro-jds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201801_repro-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of reproduction management on Canadian dairy farms</title>
+      <link>http://localhost:1313/publication/201611_management-jds/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201611_management-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

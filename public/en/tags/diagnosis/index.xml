@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnosis | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/diagnosis/</link>
+      <atom:link href="http://localhost:1313/en/tags/diagnosis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diagnosis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Diagnosis</title>
+      <link>http://localhost:1313/en/tags/diagnosis/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of milk ketone bodies from flow-injection analysis for the diagnosis of hyperketonemia in dairy cows</title>
+      <link>http://localhost:1313/en/publication/201406_hkdx-jds/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201406_hkdx-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of a new milk strip cow-side test for diagnosis of hyperketonemia</title>
+      <link>http://localhost:1313/en/publication/201106_hkdx-jds/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201106_hkdx-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

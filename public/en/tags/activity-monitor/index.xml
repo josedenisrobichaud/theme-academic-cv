@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activity Monitor | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/activity-monitor/</link>
+      <atom:link href="http://localhost:1313/en/tags/activity-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Activity Monitor</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Activity Monitor</title>
+      <link>http://localhost:1313/en/tags/activity-monitor/</link>
+    </image>
+    
+    <item>
+      <title>Validation of a leg-mounted pedometer for the measurement of steps in lactating Holstein cows</title>
+      <link>http://localhost:1313/en/publication/202401_validitypedm-jdsc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202401_validitypedm-jdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symposium review: Linking activity-sensor data and physiology to improve dairy cow fertility</title>
+      <link>http://localhost:1313/en/publication/202102_revaam-jds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202102_revaam-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pilot Study to Evaluate the Association Between the Length of the Luteal Phase and Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows</title>
+      <link>http://localhost:1313/en/publication/201808_lp-fvs/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201808_lp-fvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of automated activity monitoring systems used in combination with timed artificial insemination compared to timed artificial insemination only in early lactation in dairy cows</title>
+      <link>http://localhost:1313/en/publication/201801-aam-jds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201801-aam-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

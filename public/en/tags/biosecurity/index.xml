@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biosecurity | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/biosecurity/</link>
+      <atom:link href="http://localhost:1313/en/tags/biosecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biosecurity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Biosecurity</title>
+      <link>http://localhost:1313/en/tags/biosecurity/</link>
+    </image>
+    
+    <item>
+      <title>Gap between producers and veterinarians regarding biosecurity on Quebec dairy farms</title>
+      <link>http://localhost:1313/en/publication/202007_biosecurity-cvj/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202007_biosecurity-cvj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canadian dairy farmers&#39; perception of the efficacy of biosecurity practices</title>
+      <link>http://localhost:1313/en/publication/201911_biosecurity_percep-jds/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201911_biosecurity_percep-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biosecurity and herd health management practices on Canadian dairy farms</title>
+      <link>http://localhost:1313/en/publication/201910_biosecurity-jds/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201910_biosecurity-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

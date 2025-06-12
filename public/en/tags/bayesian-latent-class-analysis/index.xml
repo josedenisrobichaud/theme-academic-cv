@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Latent Class Analysis | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/bayesian-latent-class-analysis/</link>
+      <atom:link href="http://localhost:1313/en/tags/bayesian-latent-class-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian Latent Class Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Bayesian Latent Class Analysis</title>
+      <link>http://localhost:1313/en/tags/bayesian-latent-class-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Validity of purulent vaginal discharge, esterase, luminometry, and bacteriological tests for diagnosing uterine infection in dairy cows</title>
+      <link>http://localhost:1313/en/publication/202506_validityui-pvm/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202506_validityui-pvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity of luminometry and bacteriological tests for diagnosing intramammary infection at dry-off in dairy cows</title>
+      <link>http://localhost:1313/en/publication/202409_validityimi-jds/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202409_validityimi-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of leukocyte esterase test, endometrial cytology and vaginal discharge score for diagnosing postpartum reproductive tract health status in dairy cows at the moment of sampling, using a latent class model fit within a Bayesian framework</title>
+      <link>http://localhost:1313/en/publication/201901_reprodx-pvm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/201901_reprodx-pvm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

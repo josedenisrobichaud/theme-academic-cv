@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/review/</link>
+      <atom:link href="http://localhost:1313/en/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Review</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Review</title>
+      <link>http://localhost:1313/en/tags/review/</link>
+    </image>
+    
+    <item>
+      <title>How are large-scale One Health initiatives targeting infectious diseases and antimicrobial resistance evaluated? A scoping review</title>
+      <link>http://localhost:1313/en/publication/202206_ohevaluation-oh/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202206_ohevaluation-oh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symposium review: Linking activity-sensor data and physiology to improve dairy cow fertility</title>
+      <link>http://localhost:1313/en/publication/202102_revaam-jds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202102_revaam-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

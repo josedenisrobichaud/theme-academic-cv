@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dairy Heifer | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/dairy-heifer/</link>
+      <atom:link href="http://localhost:1313/en/tags/dairy-heifer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dairy Heifer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Dairy Heifer</title>
+      <link>http://localhost:1313/en/tags/dairy-heifer/</link>
+    </image>
+    
+    <item>
+      <title>The effect of progesterone concentrations during superovulation of Holstein heifers in a randomized trial</title>
+      <link>http://localhost:1313/en/publication/202312_p4superov-jds/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202312_p4superov-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the evolution of the proportion of respiratory and enteric pathogens and diseases in pre-weaned unvaccinated dairy heifers from Québec, Canada</title>
+      <link>http://localhost:1313/en/publication/202112_dzcalves-bp/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202112_dzcalves-bp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

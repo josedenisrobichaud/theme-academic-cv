@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/technologies/</link>
+      <atom:link href="http://localhost:1313/en/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technologies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Technologies</title>
+      <link>http://localhost:1313/en/tags/technologies/</link>
+    </image>
+    
+    <item>
+      <title>Use of bacterial markers to predict endometritis in dairy cows</title>
+      <link>http://localhost:1313/en/project/marqueurs/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/marqueurs/</guid>
+      <description>&lt;p&gt;This project needs a &lt;a href=&#34;https://fmv.umontreal.ca/etudes/postes-etudes/fiche/udemportraits/f/offre-de-la-maitrise-departement-de-biomedecine-veterinaire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master&amp;rsquo;s degree (M.Sc.)&lt;/a&gt; student in veterinary science. If you have a background in veterinary medicine, animal science, molecular biology, bioinformatics, or a related field, and you have experience in research laboratories and working with cattle, please contact us!&lt;/p&gt;
+&lt;p&gt;This study aims to detect bacterial markers present in the uterus of dairy cows that can predict the onset of endometritis.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in28256/sg/Marcio%20Costa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marcio Costa&lt;/a&gt; (principal investigator)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmv.umontreal.ca/faculte/departements/biomedecine/corps-professoral/fiche/in/in37531/sg/H%C3%A9l%C3%A8ne%20Lard%C3%A9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hélène Lardé&lt;/a&gt; (collaborator)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in36880/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabella Nicola&lt;/a&gt; (collaborator)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en/&#34;&gt;José Denis-Robichaud&lt;/a&gt; (collaborator)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-brief&#34;&gt;In brief&lt;/h2&gt;
+&lt;p&gt;Endometritis, an inflammation of the inner lining of the uterus, is common in dairy cows, particularly in the postpartum period. It affects fertility and overall health, resulting in significant economic losses in the dairy industry. The significant consequences of endometritis include longer intervals between pregnancies, increased need for veterinary care, and use of antimicrobials, which are associated with decreased performance. Nearly 100% of cows have bacterial contamination in the uterus after calving, and expected changes in the microbiota are observed during uterine involution. However, when there are imbalances in the resident bacteria, the environment becomes more susceptible to the proliferation of pathogenic organisms, such as Trueperella and E. coli. New DNA sequencing and quantification technologies have become readily available in recent decades, enabling exponential growth in our understanding of the relationship between the host and its microbiota. Therefore, this study aims to detect bacterial markers present in the uterus of dairy cows that can predict the onset of endometritis.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;MAPAQ/Ministère de l&amp;rsquo;Agriculture, des Pêcheries et de l&amp;rsquo;Alimentation &lt;br&gt;
+&lt;em&gt;Innovation bioalimentaire - Volet 2: Recherche appliquée, développement expérimental et adaptation technologique&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

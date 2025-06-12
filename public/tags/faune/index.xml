@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faune | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/faune/</link>
+      <atom:link href="http://localhost:1313/tags/faune/index.xml" rel="self" type="application/rss+xml" />
+    <description>Faune</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Faune</title>
+      <link>http://localhost:1313/tags/faune/</link>
+    </image>
+    
+    <item>
+      <title>Pigeons in urban landscapes: Population control using OvoControl®P at TransLink SkyTrain stations</title>
+      <link>http://localhost:1313/publication/202306_pigeons-cwbm/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202306_pigeons-cwbm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

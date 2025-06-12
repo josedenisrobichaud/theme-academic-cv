@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental Health | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/mental-health/</link>
+      <atom:link href="http://localhost:1313/en/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mental Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/en/tags/mental-health/</link>
+    </image>
+    
+    <item>
+      <title>Professional characteristics, attitudes, and practices associated with stress and quality of life among Canadian animal health workers</title>
+      <link>http://localhost:1313/en/publication/202309_qolvet-cvj/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202309_qolvet-cvj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods used by Canadian dairy farmers for on-farm euthanasia and the emotions associated with the decision and the practice of euthanasia</title>
+      <link>http://localhost:1313/en/publication/202302_euthdairy-jds/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202302_euthdairy-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Review: Barriers and psychological impacts of euthanasia on Canadian dairy farmers</title>
+      <link>http://localhost:1313/en/publication/202302_euthanasia-pd/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202302_euthanasia-pd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les impacts psychologiques de l’euthanasie. Le producteur de lait québécois</title>
+      <link>http://localhost:1313/en/publication/202209-euthanasie2-plq/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202209-euthanasie2-plq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les méthodes d’euthanasie utilisées à la ferme</title>
+      <link>http://localhost:1313/en/publication/202209_euthanasie-plq/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202209_euthanasie-plq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between Pet Ownership and Mental Health and Well-Being of Canadians Assessed in a Cross-Sectional Study during the COVID-19 Pandemic</title>
+      <link>http://localhost:1313/en/publication/202202_qolpet-ijerph/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202202_qolpet-ijerph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

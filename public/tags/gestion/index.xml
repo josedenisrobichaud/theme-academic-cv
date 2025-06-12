@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gestion | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/gestion/</link>
+      <atom:link href="http://localhost:1313/tags/gestion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gestion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Gestion</title>
+      <link>http://localhost:1313/tags/gestion/</link>
+    </image>
+    
+    <item>
+      <title>Dairy producers&#39; attitudes toward reproductive management and performance on Canadian dairy farms</title>
+      <link>http://localhost:1313/publication/201801_repro-jds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201801_repro-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of reproduction management on Canadian dairy farms</title>
+      <link>http://localhost:1313/publication/201611_management-jds/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201611_management-jds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

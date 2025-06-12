@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat | José Denis-Robichaud</title>
+    <link>http://localhost:1313/en/tags/cat/</link>
+      <atom:link href="http://localhost:1313/en/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cat</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Cat</title>
+      <link>http://localhost:1313/en/tags/cat/</link>
+    </image>
+    
+    <item>
+      <title>High prevalence of SARS-CoV-2 antibodies and low prevalence of SARS-CoV-2 RNA in cats recently exposed to human cases</title>
+      <link>http://localhost:1313/en/publication/202407_covidcat_bmc/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202407_covidcat_bmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
