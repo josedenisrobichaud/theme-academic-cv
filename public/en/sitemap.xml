@@ -94,6 +94,10 @@
                 href="http://localhost:1313/en/post/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/project/tx-iu/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/en/tags/dairy-cow/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,6 +185,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/travel/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/treatment/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -875,10 +883,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/publication/201906_sdctleuko-bp/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/treatment/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/en/publication/201903_iuecoli-cdvs/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
