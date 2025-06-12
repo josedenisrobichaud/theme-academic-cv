@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+    spacing: "4rem 2rem"
   - block: markdown
     content:
       title: 'My research'
@@ -41,6 +42,7 @@ sections:
         Please reach out to collaborate!
     design:
       columns: '1'
+    spacing: "3rem 1.5rem"
   - block: collection
     id: papers
     content:
@@ -51,7 +53,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      css_class: "grid-cols-1 md:grid-cols-2"
   - block: collection
     content:
       title: Recent Publications
@@ -71,7 +73,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 2
+      css_class: "grid-cols-1 md:grid-cols-2"
   - block: collection
     id: news
     content:
@@ -100,7 +102,7 @@ sections:
       view: title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [2rem, 1rem, 2rem, 1rem] 
 #  - block: cta-card
 #    demo: true # Only display this section in the Hugo Blox Builder demo site
 #    content:

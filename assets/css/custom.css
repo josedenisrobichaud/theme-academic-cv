@@ -15,3 +15,20 @@
   height: 150px;
   image-rendering: auto;
 }
+
+@media (max-width: 640px) {
+  .prose, .bio-text, .wc-block {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .portrait-title {
+    text-align: center;
+  }
+
+  .network-icon {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+}

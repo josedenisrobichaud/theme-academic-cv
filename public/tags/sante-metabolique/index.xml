@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Santé Metabolique | José Denis-Robichaud</title>
+    <title>Santé Métabolique | José Denis-Robichaud</title>
     <link>http://localhost:1313/tags/sante-metabolique/</link>
       <atom:link href="http://localhost:1313/tags/sante-metabolique/index.xml" rel="self" type="application/rss+xml" />
-    <description>Santé Metabolique</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <description>Santé Métabolique</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
-      <title>Santé Metabolique</title>
+      <title>Santé Métabolique</title>
       <link>http://localhost:1313/tags/sante-metabolique/</link>
     </image>
     
     <item>
-      <title>Accuracy of milk ketone bodies from flow-injection analysis for the diagnosis of hyperketonemia in dairy cows</title>
-      <link>http://localhost:1313/publication/201406_hkdx-jds/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201406_hkdx-jds/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
-guid>
+      <title>Herd-level associations between the proportion of elevated prepartum nonesterified fatty acid concentrations and postpartum diseases, reproduction, or culling on dairy farms</title>
+      <link>http://localhost:1313/publication/202405_herdnefa_jdsc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202405_herdnefa_jdsc/</guid>
       <description></description>
     </item>
     
