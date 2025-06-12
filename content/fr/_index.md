@@ -54,7 +54,8 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      css_class: "mx-auto max-w-screen-lg"
+      fill_image: false
+      columns: 2
   - block: collection
     content:
       title: Publications récentes
