@@ -133,10 +133,11 @@
     {{ with $person.interests }}
     <div class="">
       <div class="section-subheading mb-3">{{ i18n "interests" | markdownify }}</div>
-      <ul class="list-disc list-inside space-y-1 pl-5">
+      <ul class="space-y-2">
         {{ range . }}
-        <li>
-          {{ . | markdownify | emojify }}
+        <li class="flex items-start gap-3">
+          {{ partial "functions/get_icon" (dict "name" "check-badge" "attributes" "style=\"\" class='flex-shrink-0 w-5 h-5 me-2 mt-1'") }}
+          <span>{{ . | markdownify | emojify }}</span>
         </li>
         {{ end }}
       </ul>

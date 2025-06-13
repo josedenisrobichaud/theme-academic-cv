@@ -125,23 +125,23 @@ work:
     date_end: 2013-08-30
 
 
-# Skills
+#Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
- # - name: Skills
-  #  items:
-   #   - name: Networking
-    #    description: ''
-     #   percent: 70
-      #  icon: globe
-  #    - name: Epidemiology
-   #     description: ''
-    #    percent: 80
-     #   icon: chart-line
-  #    - name: One Health
-   #     description: ''
-    #    percent: 60
-     #   icon: cow
+skills:
+  - name: Skills
+    items:
+      - name: Networking
+        description: ''
+        percent: 70
+        icon: user-group
+      - name: Epidemiology
+        description: ''
+        percent: 80
+        icon: presentation-chart-line
+      - name: One Health
+        description: ''
+        percent: 60
+        icon: globe-americas
 #  - name: Hobbies
  #   color: '#eeac02'
   #  color_border: '#f0bf23'
