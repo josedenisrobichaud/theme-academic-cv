@@ -16,3 +16,7 @@
   image-rendering: auto;
 }
 
+.container.mt-16,
+.container.sm\:mt-20 {
+  margin-top: 1rem !important;
+}

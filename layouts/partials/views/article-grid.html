@@ -1,0 +1,74 @@
+{{ $item := .item }}
+{{ $fill_image := .config.fill_image | default true }}
+
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+
+{{ $link := $item.Params.external_link | default $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+<div class="group cursor-pointer max-w-full overflow-hidden rounded-xl border border-gray-200 bg-white dark:bg-gray-800 shadow hover:shadow-md transition-all">
+  {{ with $resource }}
+  {{ $image := "" }}
+  {{if $fill_image}}
+    {{ $image = .Fill (printf "960x540 %s" $anchor) }}
+  {{else}}
+    {{ $image = .Fit (printf "960x540 %s" $anchor) }}
+  {{end}}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+
+  <a class="relative block aspect-video overflow-hidden rounded-t-xl" href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+    <img alt="{{ $item.Title | plainify }}"
+         class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+         decoding="async" loading="lazy"
+         src="{{ $image.RelPermalink }}">
+  </a>
+  {{ end }}
+
+  <div class="p-4">
+    {{ range first 1 ($item.GetTerms "tags") }}
+    <a href="{{.RelPermalink}}">
+      <span class="inline-block text-xs font-semibold tracking-wider uppercase text-primary-700 dark:text-primary-300">{{ .Page.LinkTitle }}</span>
+    </a>
+    {{ end }}
+
+    <h2 class="mt-2 text-lg font-bold leading-snug text-gray-900 dark:text-white">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="hover:underline">
+        {{- $item.Title -}}
+        {{ if $target }}
+          {{ partial "functions/get_icon" (dict "name" "arrow-top-right-on-square" "attributes" "style=\"height: 1em;\" class=\"inline h-5 w-5 pl-1\"") }}
+        {{ end }}
+      </a>
+    </h2>
+
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400 line-clamp-3">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
+      </a>
+    </p>
+
+    <div class="mt-4 flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+      {{ if $item.Params.authors }}
+      {{ range first 1 ($item.GetTerms "authors") }}
+      <div class="flex items-center gap-2">
+        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{ if $avatar }}
+        {{ $authorImage := $avatar.Process "Fill 50x50 Center 95 webp" }}
+        <img alt="avatar" class="h-5 w-5 rounded-full object-cover" loading="lazy" src="{{ $authorImage.RelPermalink }}">
+        {{ end }}
+        <span class="truncate">{{ .Page.LinkTitle }}</span>
+      </div>
+      {{ end }}
+      <span>•</span>
+      {{ end }}
+
+      <time datetime="{{ time.Format "2006-01-02" $item.Date }}">
+        {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
+      </time>
+    </div>
+  </div>
+</div>

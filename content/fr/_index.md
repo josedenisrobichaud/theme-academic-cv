@@ -27,7 +27,7 @@ sections:
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
-          #size: cover
+          size: cover
           position: center
           parallax: false
   - block: markdown
@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
   - block: collection
