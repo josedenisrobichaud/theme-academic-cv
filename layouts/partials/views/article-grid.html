@@ -52,19 +52,6 @@
     </p>
 
     <div class="mt-4 flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
-      {{ if $item.Params.authors }}
-      {{ range first 1 ($item.GetTerms "authors") }}
-      <div class="flex items-center gap-2">
-        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-        {{ if $avatar }}
-        {{ $authorImage := $avatar.Process "Fill 50x50 Center 95 webp" }}
-        <img alt="avatar" class="h-5 w-5 rounded-full object-cover" loading="lazy" src="{{ $authorImage.RelPermalink }}">
-        {{ end }}
-        <span class="truncate">{{ .Page.LinkTitle }}</span>
-      </div>
-      {{ end }}
-      <span>•</span>
-      {{ end }}
 
       <time datetime="{{ time.Format "2006-01-02" $item.Date }}">
         {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
