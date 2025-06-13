@@ -142,9 +142,9 @@ skills:
         description: ''
         percent: 60
         icon: globe-americas
-#  - name: Hobbies
- #   color: '#eeac02'
-  #  color_border: '#f0bf23'
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
    # items:
     #  - name: Kitesurfing
      #   description: ''

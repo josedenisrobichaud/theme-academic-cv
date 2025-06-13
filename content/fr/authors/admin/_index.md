@@ -184,5 +184,5 @@ work:
 
 ## Bienvenue sur mon site !
 
-Spécialiste en médecine vétérinaire préventive, avec une expertise en épidémiologie et en biostatistique, je m'intéresse à l'application concrète de l'approche *Une Seule Santé* — de la santé des populations animales à celle des humains. Je suis professeure en gestion des élevages à la Faculté de médecine vétérinaire de l’Université de Montréal (campus de Rimouski), où j’ai le plaisir d’enseigner à des étudiants engagés et de mener des projets de recherche passionnants. <br>
+Spécialiste en médecine vétérinaire préventive, avec une expertise en épidémiologie et en biostatistique, je m'intéresse à l'application concrète de l'approche *Une Seule Santé* — de la santé des populations animales à celle des humains. Je suis professeure en gestion des élevages à la Faculté de médecine vétérinaire de l’Université de Montréal (campus de Rimouski), où j’ai le plaisir d’enseigner à des étudiant·es engagé·es et de mener des projets de recherche passionnants. <br>
 **Vous souhaitez collaborer ? N’hésitez pas à me contacter !**

@@ -35,7 +35,7 @@ sections:
       title: 'Ma recherche'
       subtitle: ''
       text: |-
-        Mon objectif est d'explorer l'intersection des enjeux technologiques, sociétaux, environnementaux et climatiques entourant la production laitière afin de soutenir sa durabilité et sa résilience. En m'appuyant sur les bases de l'épidémiologie, je développe des connaissances et des outils liés aux innovations technologiques, aux pratiques de gestion et aux collaborations interdisciplinaires afin d'optimiser la santé des animaux, des producteurs, des consommateurs et de l'environnement.
+        Mon objectif est d'explorer l'intersection des enjeux technologiques, sociétaux, environnementaux et climatiques entourant la production laitière afin de soutenir sa durabilité et sa résilience. En m'appuyant sur les bases de l'épidémiologie, je développe des connaissances et des outils liés aux innovations technologiques, aux pratiques de gestion et aux collaborations interdisciplinaires afin d'optimiser la santé des animaux, des producteur·trices, des consommateur·trices et de l'environnement.
 
 
         N'hésitez pas à me contacter pour collaborer!
