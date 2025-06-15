@@ -37,20 +37,28 @@ Here’s to big changes, new roots, and a slower, deeper kind of adventure.
 <div class="insta-wrapper">
 
   <div class="insta-post">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CPYce0-LOol/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+  <div class="insta-embed-container">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CPYce0-LOol/" data-instgrm-version="14"></blockquote>
+  </div>
   </div>
 
   <div class="insta-post">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CR6CXzOrjgw/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+  <div class="insta-embed-container">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CR6CXzOrjgw/" data-instgrm-version="14"></blockquote>
+  </div>
   </div>
 
   <div class="insta-post">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CjKPOgYobwf/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+  <div class="insta-embed-container">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CjKPOgYobwf/" data-instgrm-version="14"></blockquote>
+  </div>
   </div>
 
 
   <div class="insta-post">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CUcs-VeF84h/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+  <div class="insta-embed-container">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CUcs-VeF84h/" data-instgrm-version="14"></blockquote>
+  </div>
   </div>
 </div>
 
