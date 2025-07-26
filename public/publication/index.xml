@@ -5,12 +5,28 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Nonesterified fatty acids during the dry-off period and their association with peripartum diseases in dairy cows</title>
+      <link>http://localhost:1313/publication/202507_donefa-jdsc/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202507_donefa-jdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail chalk improved detection of true estrous alerts from an automated activity monitor system in a cohort study</title>
+      <link>http://localhost:1313/publication/202507_tail-chalk/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202507_tail-chalk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Validity of purulent vaginal discharge, esterase, luminometry, and bacteriological tests for diagnosing uterine infection in dairy cows</title>

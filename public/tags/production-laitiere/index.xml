@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Production Laitière | José Denis-Robichaud</title>
+    <link>http://localhost:1313/tags/production-laitiere/</link>
+      <atom:link href="http://localhost:1313/tags/production-laitiere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Production Laitière</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
+      <title>Production Laitière</title>
+      <link>http://localhost:1313/tags/production-laitiere/</link>
+    </image>
+    
+    <item>
+      <title>Impact des technologies dans les fermes laitières</title>
+      <link>http://localhost:1313/project/techuse/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/techuse/</guid>
+      <description>&lt;p&gt;Pour ce projet, je cherche des étudiant·es à la maîtrise (M.Sc.) et/ou au doctorat (Ph.D.) en sciences vétérinaires. Si l&amp;rsquo;utilisation des technologies dans les fermes laitières vous intéresse et que vous voulez explorer leurs impacts sur la santé animale et la qualité de vie des producteur·trices, contactez-moi !&lt;/p&gt;
+&lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
+&lt;p&gt;Plusieurs technologies sont utilisées dans les fermes laitières pour supporter la gestion, améliorer la productivité et la santé des troupeaux et pour diminuer la charge de travail des producteur·trices laitiers. Cette ‘agriculture intelligente’ est en pleine expansion et les technologies disponibles pour les producteur·trices laitiers sont multiples. Globalement, le but de ce projet est d’aborder les technologies à la ferme en considérant l’interconnexion entre la santé des vaches et des producteur·trices (approche ‘Une Seule Santé’). Pour ce projet, nous allons développer et déployer un sondage canadien évaluant l’utilisation des technologies dans les fermes laitières, la reproduction et la santé des vaches et la qualité de vie professionnelle des producteur·trices. Ensuite, nous réaliserons une étude qualitative québécoise explorant l’utilisation des différents outils technologiques et les défis qui y sont associés. Dans un contexte où une approche responsable de l’innovation est réclamée par plusieurs, les résultats obtenus par ces études seront utiles pour comprendre l’impact de l’agriculture intelligente sur les différentes santés. De plus, la perspective des producteur·trices obtenue par ce projet pourra guider l’utilisation des données générées par les différentes technologies afin de développer des modèles d’apprentissage automatique supportant les prises de décisions liées à la fertilité et à la santé des vaches laitières.&lt;/p&gt;
+&lt;h2 id=&#34;équipe&#34;&gt;Équipe&lt;/h2&gt;
+&lt;h2 id=&#34;financement&#34;&gt;Financement&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

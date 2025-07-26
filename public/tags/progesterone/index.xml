@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Progestérone | José Denis-Robichaud</title>
+    <title>Progesterone | José Denis-Robichaud</title>
     <link>http://localhost:1313/tags/progesterone/</link>
       <atom:link href="http://localhost:1313/tags/progesterone/index.xml" rel="self" type="application/rss+xml" />
-    <description>Progestérone</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <description>Progesterone</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
-      <title>Progestérone</title>
+      <title>Progesterone</title>
       <link>http://localhost:1313/tags/progesterone/</link>
     </image>
     
     <item>
-      <title>The effect of progesterone concentrations during superovulation of Holstein heifers in a randomized trial</title>
-      <link>http://localhost:1313/publication/202312_p4superov-jds/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/202312_p4superov-jds/</guid>
+      <title>Technical note: Validation of an in-house bovine serum enzyme immunoassay for progesterone measurement</title>
+      <link>http://localhost:1313/publication/202102_validityp4-jds/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202102_validityp4-jds/</guid>
       <description></description>
     </item>
     
   </channel>
 </rss>
+ss>
