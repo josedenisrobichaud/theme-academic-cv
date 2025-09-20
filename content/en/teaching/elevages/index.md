@@ -1,7 +1,7 @@
 ---
 title: "Gestion vétérinaire des élevages"
 summary: DMV1213
-date: 2025-08-01
+date: 2050-08-01
 type: docs
 math: false
 tags:

@@ -5,12 +5,21 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Présentations</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Tue, 08 Apr 2025 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Présentations</title>
       <link>http://localhost:1313/event/</link>
     </image>
+    
+    <item>
+      <title>Santé utérine des vaches laitières</title>
+      <link>http://localhost:1313/event/2025sante-uterine/</link>
+      <pubDate>Sat, 15 Nov 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025sante-uterine/</guid>
+      <description>&lt;p&gt;Cette présentation vous permettra de quantifier l&amp;rsquo;impact de l&amp;rsquo;écoulement vaginal purulent et de l&amp;rsquo;endométrite sur les performances en reproduction des vaches laitières, de choisir les outils diagnostiques pour identifier ces conditions et de proposer un plan pour évaluer la santé reproductrice dans un troupeau et mitiger l&amp;rsquo;impact des conditions du tractus reproducteur.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DFC|PLC: Paths to On-Farm Excellence</title>

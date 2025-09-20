@@ -99,7 +99,7 @@ work:
     summary: |
       Responsabilités:
       - Développer, analyser, interpréter et publier des travaux de recherche en collaboration avec des acteurs stratégiques en sciences animales, santé publique et Une Seule Santé.
-      - concevoir et produire des cours en ligne pour la formation continue de vétérinaires et de spécialistes en sciences animales
+      - Concevoir et produire des cours en ligne pour la formation continue de vétérinaires et de spécialistes en sciences animales
       - Comprendre et communiquer aux professionnels et au grand public les nouveaux défis et développements de l'industrie laitière
   - position: Chercheuse postdoctorale
     company_name: 'University of British Columbia'

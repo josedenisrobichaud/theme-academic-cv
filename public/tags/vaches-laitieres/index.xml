@@ -5,12 +5,37 @@
     <link>http://localhost:1313/tags/vaches-laitieres/</link>
       <atom:link href="http://localhost:1313/tags/vaches-laitieres/index.xml" rel="self" type="application/rss+xml" />
     <description>Vaches Laitières</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sat, 15 Nov 2025 15:30:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Vaches Laitières</title>
       <link>http://localhost:1313/tags/vaches-laitieres/</link>
     </image>
+    
+    <item>
+      <title>Santé utérine des vaches laitières</title>
+      <link>http://localhost:1313/event/2025sante-uterine/</link>
+      <pubDate>Sat, 15 Nov 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025sante-uterine/</guid>
+      <description>&lt;p&gt;Cette présentation vous permettra de quantifier l&amp;rsquo;impact de l&amp;rsquo;écoulement vaginal purulent et de l&amp;rsquo;endométrite sur les performances en reproduction des vaches laitières, de choisir les outils diagnostiques pour identifier ces conditions et de proposer un plan pour évaluer la santé reproductrice dans un troupeau et mitiger l&amp;rsquo;impact des conditions du tractus reproducteur.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonesterified fatty acids during the dry-off period and their association with peripartum diseases in dairy cows</title>
+      <link>http://localhost:1313/publication/202507_donefa-jdsc/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202507_donefa-jdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail chalk improved detection of true estrous alerts from an automated activity monitor system in a cohort study</title>
+      <link>http://localhost:1313/publication/202507_tail-chalk/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202507_tail-chalk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Utilisation de marqueurs bactériens pour prédire l&#39;endométrite chez les vaches laitières</title>

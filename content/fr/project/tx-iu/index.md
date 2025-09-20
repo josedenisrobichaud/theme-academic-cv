@@ -1,6 +1,6 @@
 ---
 title: Peut-on mieux identifier quelles vaches bénéficient d’un traitement intra-utérin de céphapirine?
-date: 2025-09-01
+date: 2026-01-01
 external_link:
 tags:
   - reproduction

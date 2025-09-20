@@ -1,6 +1,6 @@
 ---
 title: Can we better identify which cows benefit from intrauterine treatment with cephapirin?
-date: 2025-09-01
+date: 2026-01-01
 external_link:
 tags:
   - reproduction

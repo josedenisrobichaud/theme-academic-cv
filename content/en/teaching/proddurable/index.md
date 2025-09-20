@@ -1,7 +1,7 @@
 ---
 title: "Enjeux vétérinaires et productions animales durables"
 summary: DMV2423
-date: 2026-01-01
+date: 2050-01-01
 type: docs
 math: false
 tags:

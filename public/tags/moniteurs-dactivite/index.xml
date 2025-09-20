@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/moniteurs-dactivite/</link>
       <atom:link href="http://localhost:1313/tags/moniteurs-dactivite/index.xml" rel="self" type="application/rss+xml" />
     <description>Moniteurs D&#39;activité</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Moniteurs D&#39;activité</title>
       <link>http://localhost:1313/tags/moniteurs-dactivite/</link>
     </image>
+    
+    <item>
+      <title>Tail chalk improved detection of true estrous alerts from an automated activity monitor system in a cohort study</title>
+      <link>http://localhost:1313/publication/202507_tail-chalk/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202507_tail-chalk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Validation of a leg-mounted pedometer for the measurement of steps in lactating Holstein cows</title>
