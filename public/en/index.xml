@@ -5,12 +5,28 @@
     <link>http://localhost:1313/en/</link>
       <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <description>José Denis-Robichaud</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>José Denis-Robichaud</title>
       <link>http://localhost:1313/en/</link>
     </image>
+    
+    <item>
+      <title>Endometrial gene expression of lactating Holstein cows: impact of pre-estrus progesterone and intensity of estrous expression</title>
+      <link>http://localhost:1313/en/publication/202510_p4-genes/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202510_p4-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progesterone concentrations during superovulation and estrous behaviour affect post-estrus endometrial gene expression in Holstein heifers</title>
+      <link>http://localhost:1313/en/publication/202509_p4-superov/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/202509_p4-superov/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nonesterified fatty acids during the dry-off period and their association with peripartum diseases in dairy cows</title>
@@ -180,14 +196,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/en/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>One Health communication channels: a qualitative case study of swine influenza in Canada in 2020</title>
       <link>http://localhost:1313/en/publication/202404_ohchannels-bmc/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
@@ -216,14 +224,6 @@
       <link>http://localhost:1313/en/publication/202312_p4superov-jds/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/publication/202312_p4superov-jds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/en/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/</guid>
       <description></description>
     </item>
     
@@ -496,6 +496,30 @@
       <link>http://localhost:1313/en/publication/201106_hkdx-jds/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/publication/201106_hkdx-jds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/en/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet the Team</title>
+      <link>http://localhost:1313/en/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/projects/</guid>
       <description></description>
     </item>
     

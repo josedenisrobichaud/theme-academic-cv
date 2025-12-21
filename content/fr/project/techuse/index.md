@@ -12,7 +12,6 @@ tags:
   - Une Seule Santé
 
 share: FALSE
-
 ---
 Pour ce projet, je cherche des étudiant·es à la maîtrise (M.Sc.) et/ou au doctorat (Ph.D.) en sciences vétérinaires. Si l'utilisation des technologies dans les fermes laitières vous intéresse et que vous voulez explorer leurs impacts sur la santé animale et la qualité de vie des producteur·trices, contactez-moi [ici](mailto:jose.denis-robichaud@umontreal.ca) !
 

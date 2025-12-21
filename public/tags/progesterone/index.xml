@@ -5,12 +5,28 @@
     <link>http://localhost:1313/tags/progesterone/</link>
       <atom:link href="http://localhost:1313/tags/progesterone/index.xml" rel="self" type="application/rss+xml" />
     <description>Progestérone</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Progestérone</title>
       <link>http://localhost:1313/tags/progesterone/</link>
     </image>
+    
+    <item>
+      <title>Endometrial gene expression of lactating Holstein cows: impact of pre-estrus progesterone and intensity of estrous expression</title>
+      <link>http://localhost:1313/publication/202510_p4-genes/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202510_p4-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progesterone concentrations during superovulation and estrous behaviour affect post-estrus endometrial gene expression in Holstein heifers</title>
+      <link>http://localhost:1313/publication/202509_p4-superov/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202509_p4-superov/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The effect of progesterone concentrations during superovulation of Holstein heifers in a randomized trial</title>

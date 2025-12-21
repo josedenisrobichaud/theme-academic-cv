@@ -5,12 +5,28 @@
     <link>http://localhost:1313/tags/moniteurs-dactivite/</link>
       <atom:link href="http://localhost:1313/tags/moniteurs-dactivite/index.xml" rel="self" type="application/rss+xml" />
     <description>Moniteurs D&#39;activité</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_deede044e9d7cfd2.png</url>
       <title>Moniteurs D&#39;activité</title>
       <link>http://localhost:1313/tags/moniteurs-dactivite/</link>
     </image>
+    
+    <item>
+      <title>Endometrial gene expression of lactating Holstein cows: impact of pre-estrus progesterone and intensity of estrous expression</title>
+      <link>http://localhost:1313/publication/202510_p4-genes/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202510_p4-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progesterone concentrations during superovulation and estrous behaviour affect post-estrus endometrial gene expression in Holstein heifers</title>
+      <link>http://localhost:1313/publication/202509_p4-superov/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202509_p4-superov/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tail chalk improved detection of true estrous alerts from an automated activity monitor system in a cohort study</title>

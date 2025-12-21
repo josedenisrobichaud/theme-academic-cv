@@ -19,6 +19,7 @@ highlight_name: true
 # Role/position/tagline
 role: Assistant professor
 
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Université de Montréal
